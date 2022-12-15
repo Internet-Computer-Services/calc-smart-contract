@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "canisters": {
+    "calc_backend": {
+      "type": "motoko",
+      "main": "src/calc_backend/main.mo"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": "",
+      "args": ""
+    }
+  }
+}
